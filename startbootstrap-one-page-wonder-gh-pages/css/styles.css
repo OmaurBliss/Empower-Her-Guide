@@ -3477,6 +3477,10 @@ textarea.form-control-lg {
   margin-left: 0;
 }
 
+.icons{
+margin-right: 1px;
+}
+
 .dropdown-menu {
   position: absolute;
   z-index: 1000;
